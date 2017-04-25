@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>轻轻松松给图片签名</title>
+<style type="text/css">
+<!--
+body {
+	margin:15px;
+	font-family:Arial;
+	font-size:12px;
+	font-style:italic;
+    }
+#block1 {
+	padding:10px;     /*给图片加框*/
+	border:1px solid #000000；
+    float:left;
+}
+#block2{
+	color:white;
+	padding:10px;
+	position:absolute;
+	left:255px;  /*移动到图片上*/
+	top:205px;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="father">
+   <div id="block1"><img src="79b3b67791414aca8c14ebe5434143b2.jpg" width="720" height="450" />
+</div>
+  <div id="block2">isaac photo</div>
+   </div>
+</body>
+</html>
